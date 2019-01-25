@@ -5,9 +5,9 @@
 
 ### Versions:
 
-   Angular CLI: 7.2.3
-   Node       : 8.10.0
-   Angular    : 7.2.2
+   Angular CLI: 7.2.3 |
+   Node       : 8.10.0 |
+   Angular    : 7.2.2 |
    NPM        : 3.5.2
    
 ### Tools:  
