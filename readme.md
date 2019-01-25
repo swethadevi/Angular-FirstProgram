@@ -1,7 +1,7 @@
 ## ****ANGULAR  First Program**** !!
 
 
- This repository is the Angular7 project, Basic Structure of an Hello World Program.my first hello world program in angular.
+ This repository is the Angular7 project, Basic Structure of an Hello World Program. My first hello world program in angular.
 
 ### Versions:
 
